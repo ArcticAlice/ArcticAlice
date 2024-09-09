@@ -1,9 +1,6 @@
-## Hi there 👋
+# Arctic Alice
 
-<!--
-**ArcticAlice/ArcticAlice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a freshman majoring in computer science. I'm passionate about software and web development, and I'm just as excited as to explore other areas like AI development, and more. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
